@@ -1,0 +1,38 @@
+.bgOneBook{
+    background-image: url('../image/background/bg1.jpg');
+}
+
+.titleOneBook{
+    font-family: 'Smythe', cursive;
+    color: #ca8e23;
+    font-size: 5em;
+}
+
+.textOneBook p{
+    font-family: 'Smythe', cursive;
+    color: #ca8e23;
+    font-size: 25px;
+    padding: 10px;
+    margin: 0;
+    text-align:justify;
+}
+
+.textOneBook h3{
+    font-family: 'Smythe', cursive;
+    color: #ca8e23;
+    font-size: 2em;
+    padding-top: 20px;
+}
+
+/* tableau */
+.bgAttributTableau{
+    background-image: url('../image/background/bg1.jpg');
+    border: 2px solid #ca8e23;
+    opacity: 0.8;
+}
+
+.tableAttribut{
+    font-family: 'Smythe', cursive;
+    color: #ca8e23;
+    font-size: 2em;
+}
