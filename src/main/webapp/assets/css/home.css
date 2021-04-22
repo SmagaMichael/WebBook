@@ -1,5 +1,5 @@
 .bgHome{
-    background-image: url('../image/background/bg1.jpg');
+    background-image: url('../img/background/bg1.jpg');
 }
 
 /* Titre A RECENTS BOOKS */
@@ -7,7 +7,7 @@
     text-align: center;
     color: #ca8e23;
     background-image: linear-gradient(#120703, #9b4f2180),
-    url('../image/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     height: 115px;
     background-size: 100%;
     font-family: 'Smythe', cursive;
@@ -42,7 +42,7 @@
     color: #ca8e23;
     font-size: 5em;
     background-image: linear-gradient(#120703, #9b4f2180),
-    url('../image/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     background-size: 100%;
 }
 .cardBorderHome h5{

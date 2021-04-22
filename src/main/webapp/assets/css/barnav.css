@@ -1,7 +1,7 @@
 /* NavBar Entière */
 .navBarCustom{
     background-image: linear-gradient(#120703, #9b4f2180,#120703),
-    url('../../assets/img/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     height: 115px;
     background-size: 100%;
 }
@@ -11,7 +11,7 @@
     border: 2px solid black;
     padding: 10px 20px;
     background-image: linear-gradient(#120703, #9b4f2180),
-    url('../image/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     background-size: 100%;
     height: 55px;
     width: 170px;
@@ -20,14 +20,13 @@
     color: #ca8e23;
     font-size: 2em;
     font-family: 'Smythe', cursive;
-
 }
 
 .btnNavBarCustom:hover{
     border: 2px solid black;
     padding: 10px 20px;
     background-image: linear-gradient(#120703, #9b4f2180),
-    url('../image/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     background-size: 100%;
     height: 55px;
     width: 170px;
@@ -43,14 +42,15 @@
     border: 2px solid black;
     padding: 10px 20px;
     background-image: linear-gradient(#120703, #9b4f2180),
-    url('../image/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     background-size: 100%;
     text-decoration: none;
     color: #ca8e23;
     font-family: 'Smythe', cursive;
     font-size: 1.5vw;
-
-
+}
+.dropdown-item {
+    color: #ca8e23 !important;
 }
 
 /* bouton burger */
@@ -58,10 +58,10 @@
     border: 2px solid black;
     padding: 10px 20px;
     background-image: linear-gradient(#120703, #9b4f2180),
-    url('../image/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     background-size: 100%;
     text-decoration: none;
-    color: #ca8e23;
+    color: #ca8e23 !important;
     font-size: 2em;
 }
 

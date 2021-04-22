@@ -1,5 +1,5 @@
 .bgOneBook{
-    background-image: url('../image/background/bg1.jpg');
+    background-image: url('../img/background/bg1.jpg');
 }
 
 .titleOneBook{
@@ -26,8 +26,9 @@
 
 /* tableau */
 .bgAttributTableau{
-    background-image: url('../image/background/bg1.jpg');
+    background-image: url('../img/background/bg1.jpg');
     border: 2px solid #ca8e23;
+    
     opacity: 0.8;
 }
 
@@ -36,3 +37,13 @@
     color: #ca8e23;
     font-size: 2em;
 }
+.imgOneBook{
+	width:400px;
+	height:600px;
+	border: 5px outset black;
+}
+.test{
+border-image-slice: 30;	
+}
+
+

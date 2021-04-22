@@ -1,11 +1,11 @@
 .modal-content{
     border: 3px solid #ca8e23;
-    background-image: url('../image/background/bg1.jpg');
+    background-image: url('../img/background/bg1.jpg');
 }
 
 .modal-header{
     background-image: linear-gradient(#120703, #9b4f2180),
-    url('../image/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     background-size: 100%;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .modal-body{
-    background-image: url('../image/background/bg1.jpg');
+    background-image: url('../img/background/bg1.jpg');
 }
 
 .divItemSearch img{
@@ -45,7 +45,7 @@
     border: 2px solid black;
     padding: 10px 20px;
     background-image: linear-gradient(#120703, #9b4f2180),
-    url('../image/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     background-size: 100%;
     height: 55px;
     width: 170px;
@@ -61,7 +61,7 @@
     border: 2px solid black;
     padding: 10px 20px;
     background-image: linear-gradient(#120703, #9b4f2180),
-    url('../image/background/borderOr.jpg');
+    url('../img/background/borderOr.jpg');
     background-size: 100%;
     height: 55px;
     width: 170px;
